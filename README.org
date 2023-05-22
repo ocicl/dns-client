@@ -1,0 +1,9 @@
+* dns-client
+
+A pure-lisp DNS record client
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/Shinmera/dns-client.git |
+| commit  | 8d8d440                                        |
+| systems | dns-client                                     |
+|---------+------------------------------------------------|
