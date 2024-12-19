@@ -4,6 +4,6 @@ A pure-lisp DNS record client
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Shinmera/dns-client.git |
-| commit  | cc97ff5                                        |
+| commit  | 547eb06                                        |
 | systems | dns-client                                     |
 |---------+------------------------------------------------|
